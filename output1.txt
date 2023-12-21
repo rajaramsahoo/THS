@@ -1,0 +1,15 @@
+c23
+fileglob
+hello
+hello.c
+links
+nano.save
+output.txt
+output1.txt
+phase1
+rootfile
+script.sh
+testing
+thsgrp
+/home/raja/THS
+Tue Sep 19 00:16:38 IST 2023
